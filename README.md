@@ -1,5 +1,5 @@
 # Formulario_cad.php
-Formulário para cadastro de clientes.
+Formulário para coleta de informações.
 
 ## Primeiro Estágio
 
